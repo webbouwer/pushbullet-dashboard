@@ -5,12 +5,13 @@ A custom push bullet dashboard
 
 sources:
 
-    - [Official Pushbullet website](https://www.pushbullet.com)
-        - API reference: https://docs.pushbullet.com
-        - Blog: http://blog.pushbullet.com
-        - Apps: https://www.pushbullet.com/apps
+  - Official Pushbullet website [Pushbullet.com](https://www.pushbullet.com)
+  
+      - API reference: https://docs.pushbullet.com
+      - Blog: http://blog.pushbullet.com
+      - Apps: https://www.pushbullet.com/apps
         
-    - [Pushbullet-for-PHP](https://github.com/ivkos/Pushbullet-for-PHP) by Ivaylo Stoyanov - A PHP library for the Pushbullet API allowing you to send all supported push notification types, manage contacts, send SMS messages, create/delete channels, and manage channel subscriptions.
+   - [Pushbullet-for-PHP](https://github.com/ivkos/Pushbullet-for-PHP) by Ivaylo Stoyanov - A PHP library for the Pushbullet API allowing you to send all supported push notification types, manage contacts, send SMS messages, create/delete channels, and manage channel subscriptions.
     
 requirements
 
